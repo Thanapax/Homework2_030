@@ -1,0 +1,15 @@
+C:\Users\advic\Desktop\Code\Homework_round_2\two\bin\Debug\net6.0\two.exe
+C:\Users\advic\Desktop\Code\Homework_round_2\two\bin\Debug\net6.0\two.deps.json
+C:\Users\advic\Desktop\Code\Homework_round_2\two\bin\Debug\net6.0\two.runtimeconfig.json
+C:\Users\advic\Desktop\Code\Homework_round_2\two\bin\Debug\net6.0\two.dll
+C:\Users\advic\Desktop\Code\Homework_round_2\two\bin\Debug\net6.0\two.pdb
+C:\Users\advic\Desktop\Code\Homework_round_2\two\obj\Debug\net6.0\two.csproj.AssemblyReference.cache
+C:\Users\advic\Desktop\Code\Homework_round_2\two\obj\Debug\net6.0\two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\advic\Desktop\Code\Homework_round_2\two\obj\Debug\net6.0\two.AssemblyInfoInputs.cache
+C:\Users\advic\Desktop\Code\Homework_round_2\two\obj\Debug\net6.0\two.AssemblyInfo.cs
+C:\Users\advic\Desktop\Code\Homework_round_2\two\obj\Debug\net6.0\two.csproj.CoreCompileInputs.cache
+C:\Users\advic\Desktop\Code\Homework_round_2\two\obj\Debug\net6.0\two.dll
+C:\Users\advic\Desktop\Code\Homework_round_2\two\obj\Debug\net6.0\refint\two.dll
+C:\Users\advic\Desktop\Code\Homework_round_2\two\obj\Debug\net6.0\two.pdb
+C:\Users\advic\Desktop\Code\Homework_round_2\two\obj\Debug\net6.0\two.genruntimeconfig.cache
+C:\Users\advic\Desktop\Code\Homework_round_2\two\obj\Debug\net6.0\ref\two.dll

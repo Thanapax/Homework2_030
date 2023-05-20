@@ -1,0 +1,15 @@
+C:\Users\advic\Desktop\Code\Homework_round_2\three\bin\Debug\net6.0\three.exe
+C:\Users\advic\Desktop\Code\Homework_round_2\three\bin\Debug\net6.0\three.deps.json
+C:\Users\advic\Desktop\Code\Homework_round_2\three\bin\Debug\net6.0\three.runtimeconfig.json
+C:\Users\advic\Desktop\Code\Homework_round_2\three\bin\Debug\net6.0\three.dll
+C:\Users\advic\Desktop\Code\Homework_round_2\three\bin\Debug\net6.0\three.pdb
+C:\Users\advic\Desktop\Code\Homework_round_2\three\obj\Debug\net6.0\three.csproj.AssemblyReference.cache
+C:\Users\advic\Desktop\Code\Homework_round_2\three\obj\Debug\net6.0\three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\advic\Desktop\Code\Homework_round_2\three\obj\Debug\net6.0\three.AssemblyInfoInputs.cache
+C:\Users\advic\Desktop\Code\Homework_round_2\three\obj\Debug\net6.0\three.AssemblyInfo.cs
+C:\Users\advic\Desktop\Code\Homework_round_2\three\obj\Debug\net6.0\three.csproj.CoreCompileInputs.cache
+C:\Users\advic\Desktop\Code\Homework_round_2\three\obj\Debug\net6.0\three.dll
+C:\Users\advic\Desktop\Code\Homework_round_2\three\obj\Debug\net6.0\refint\three.dll
+C:\Users\advic\Desktop\Code\Homework_round_2\three\obj\Debug\net6.0\three.pdb
+C:\Users\advic\Desktop\Code\Homework_round_2\three\obj\Debug\net6.0\three.genruntimeconfig.cache
+C:\Users\advic\Desktop\Code\Homework_round_2\three\obj\Debug\net6.0\ref\three.dll
